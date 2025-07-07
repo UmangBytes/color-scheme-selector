@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.boxes{
+    margin:auto;
+    padding: 2rem;
+
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+
+}
+
+.button{
+    width: 120px;
+    height: 120px;
+    border: 2px solid black;
+}
+#blue{
+    background-color: blue;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#gray{
+    background-color: gray;
+}
